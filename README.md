@@ -158,7 +158,7 @@ Example:
 
 1. Clone the repository:
    ```
-   https://github.com/PRATHAMKUKUDKAR/NextGen.git
+  (https://github.com/shubhamjagtap2909/CCNA.git)
    ```
 2.Navigate to CCNA folder:
 ```
